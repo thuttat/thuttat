@@ -7,7 +7,7 @@ My name is Anh Thu. I'm a sophomore majoring in computer science. I'm interested
 <br />
 <!-- Biểu tượng  -->
 <a href="https://www.linkedin.com/in/trịnh-thị-anh-thư">
-  <img src="https://i.stack.imgur.com/gVE0j.png" alt="LinkedIn" width="50" height="50">
+  <img src="https://i.stack.imgur.com/gVE0j.png" alt="LinkedIn" width="20" height="20">
 </a>
 
 
