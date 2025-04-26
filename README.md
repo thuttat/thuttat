@@ -6,7 +6,7 @@
 My name is Anh Thu. I'm a sophomore majoring in computer science. I'm interested in Design and Web!
 <br />
 <!-- Biểu tượng  -->
-[![LinkedIn](https://i.stack.imgur.com/gVE0j.pnj)(https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/trịnh-thị-anh-thư)
+[![LinkedIn](https://i.stack.imgur.com/gVE0j.pnj)](https://www.linkedin.com/in/trịnh-thị-anh-thư)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thu.ttath@gmail.com)
 
 
