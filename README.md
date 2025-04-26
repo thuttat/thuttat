@@ -10,7 +10,7 @@ My name is Anh Thu. I'm a sophomore majoring in computer science. I'm interested
 
 My Repositories
 
-<a href="https://github.com/thuttat/github-readme-stats">
+<a href="[https://github.com/thuttat/github-readme-stats](https://github.com/thuttat/Sales-Page)">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thuttat&repo=anuraghazra.github.io&theme=buefy" />
 </a>
 <a href="https://github.com/thuttat/thuttat.github.io">
