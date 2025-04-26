@@ -8,13 +8,13 @@ My name is Anh Thu. I'm a sophomore majoring in computer science. I'm interested
 | <a href="https://github.com/thuttat/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=thuttat&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="My github stats" /></a> | <a href="https://github.com/thuttat/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thuttat&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-Top Repositories
+My Repositories
 
 <a href="https://github.com/thuttat/github-readme-stats">
- ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thuttat&repo=anuraghazra.github.io&theme=buefy" />
 </a>
 <a href="https://github.com/thuttat/thuttat.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thuttat&repo=thuttat.github.io&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thuttat&repo=anuraghazra.github.io&theme=buefy" />
 </a>
 
 <br />
