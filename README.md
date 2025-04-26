@@ -1,4 +1,4 @@
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hi, Welcome to my Page!" src="./assets/gh-readme-header.png" /></a></p>
+<p align="center"><a href="https://thuttat.github.io"><alt="Hi, Welcome to my Page!"></a></p>
 
 <br />
 
