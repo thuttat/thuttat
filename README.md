@@ -16,7 +16,6 @@ My name is Anh Thu. I'm a sophomore majoring in computer science. I'm interested
 | ------------- | ------------- |
 <!-- Repo -->
 #### My Repositories
-<br />
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thuttat&repo=Sales-Page)](https://github.com/thuttat/Sales-Page)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thuttat&repo=Porfolio-demo)](https://github.com/thuttat/Porfolio-demo)
 
