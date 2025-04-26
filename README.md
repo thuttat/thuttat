@@ -21,5 +21,5 @@ Top Repositories
 <br />
 
 <a href="www.linkedin.com/in/trịnh-thị-anh-thư">
-  <img align="right" alt="Anurag Hazra | Linkedin" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/linkedin.svg" />
+  <img align="right" alt="Trinh Thi Anh Thu | Linkedin" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/linkedin.svg" />
 </a>
