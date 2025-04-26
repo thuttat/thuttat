@@ -2,13 +2,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00bfff&size=30&center=true&vCenter=true&width=500&height=50&lines=Hi,+Welcome+to+my+Page!">
 </p>
 
-
-
 <br />
-
-My name is Anh Thu. I'm a sophomore majoring in computer science. I'm interested in Design and Web!
+### ✨My name is Anh Thu. I'm a sophomore majoring in computer science. I'm interested in Design and Web!
 <br />
 <!-- Biểu tượng  -->
+### Find me here
 <a href="https://www.linkedin.com/in/trịnh-thị-anh-thư">
   <img src="https://i.stack.imgur.com/gVE0j.png" alt="LinkedIn" width="20" height="20">
 </a>
@@ -23,7 +21,7 @@ My name is Anh Thu. I'm a sophomore majoring in computer science. I'm interested
 
 
 <!-- Repo -->
-#### My Repositories
+#### ✨My Repositories
 | <a href="https://github.com/thuttat/Sales-Page"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thuttat&repo=Sales-Page&theme=buefy&hide_border=true" alt="Sales-Page" /></a> | <a href="https://github.com/thuttat/Porfolio-demo"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thuttat&repo=Porfolio-demo&theme=buefy&hide_border=true" alt="Porfolio-demo" /></a> |
 | ------------------------------------------------------------ | ------------------------------------------------------------------------------ |
 
