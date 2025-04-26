@@ -6,7 +6,10 @@
 My name is Anh Thu. I'm a sophomore majoring in computer science. I'm interested in Design and Web!
 <br />
 <!-- Biểu tượng  -->
-[![LinkedIn](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/trịnh-thị-anh-thư)
+<a href="https://www.linkedin.com/in/trịnh-thị-anh-thư">
+  <img src="https://i.stack.imgur.com/gVE0j.png" alt="LinkedIn" width="50" height="50">
+</a>
+
 
 
 <!-- Thống kê GitHub -->
