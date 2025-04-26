@@ -10,16 +10,8 @@ My name is Anh Thu. I'm a sophomore majoring in computer science. I'm interested
 
 My Repositories
 
-<a href="[https://github.com/thuttat/github-readme-stats](https://github.com/thuttat/Sales-Page)">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thuttat&repo=thuttat.github.io&theme=buefy" />
-</a>
-<a href="https://github.com/thuttat/thuttat.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thuttat&repo=anuraghazra.github.io&theme=buefy" />
-</a>
-
-<br />
-<br />
-
+<h1>fa fa-linkedin-square</h1>
 <a href="www.linkedin.com/in/trịnh-thị-anh-thư">
-  <img align="right" alt="Trinh Thi Anh Thu | Linkedin" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/linkedin.svg" />
+  <img align="right" alt="Trinh Thi Anh Thu | <h1>fa fa-linkedin-square</h1> />
+  <i class="fa fa-linkedin-square" style="font-size:48px;color:red"></i> 
 </a>
