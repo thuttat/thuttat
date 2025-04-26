@@ -6,7 +6,8 @@
 My name is Anh Thu. I'm a sophomore majoring in computer science. I'm interested in Design and Web!
 <br />
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" alt="C++" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c++/c++.png"></code>
+![C++](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c%2B%2B/c%2B%2B.png)
+
 
 <!-- Thống kê GitHub -->
 | <a href="https://github.com/thuttat/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=thuttat&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="My github stats" /></a> | <a href="https://github.com/thuttat/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thuttat&layout=compact&theme=buefy&hide_border=true" /></a> |
