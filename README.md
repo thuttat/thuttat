@@ -7,7 +7,8 @@ My name is Anh Thu. I'm a sophomore majoring in computer science. I'm interested
 <br />
 <!-- Biểu tượng  -->
 [![LinkedIn](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/trịnh-thị-anh-thư)
-[![Gmail](https://i.stack.imgur.com/gVE0j.png)](mailto:thu.ttath@gmail.com)
+[![Gmail](https://i.stack.imgur.com/7j9s8.png)](mailto:thu.ttath@gmail.com)
+
 
 
 
