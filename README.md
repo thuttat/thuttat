@@ -1,3 +1,4 @@
+
 <p align="center">"Hi, Welcome to my Page!"</p>
 
 <br />
@@ -9,6 +10,4 @@ My name is Anh Thu. I'm a sophomore majoring in computer science. I'm interested
 | ------------- | ------------- |
 
 <!-- Biểu tượng LinkedIn -->
-<a href="https://www.linkedin.com/in/trinh-thi-anh-thu" target="_blank">
-  <i class="fa fa-linkedin-square" style="font-size:48px;color:#0077B5;"></i>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/trinh-thi-anh-thu)
