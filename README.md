@@ -10,6 +10,6 @@ My name is Anh Thu. I'm a sophomore majoring in computer science. I'm interested
 | ------------- | ------------- |
 <!-- -->
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thuttat&repo=Sales-Page)](https://github.com/thuttat/Sales-Page)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thuttat&repo=Porfolio-demo)](https://github.com/thuttat/Porfolio-demo)
 <!-- Biểu tượng LinkedIn -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/trịnh-thị-anh-thư)
