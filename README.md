@@ -11,7 +11,7 @@ My name is Anh Thu. I'm a sophomore majoring in computer science. I'm interested
 Top Repositories
 
 <a href="https://github.com/thuttat/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thuttat&repo=github-readme-stats&theme=buefy" />
+ ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 </a>
 <a href="https://github.com/thuttat/thuttat.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thuttat&repo=thuttat.github.io&theme=buefy" />
