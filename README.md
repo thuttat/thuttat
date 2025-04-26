@@ -8,12 +8,18 @@ My name is Anh Thu. I'm a sophomore majoring in computer science. I'm interested
 <a href="https://www.linkedin.com/in/trịnh-thị-anh-thư">
   <img src="https://i.stack.imgur.com/gVE0j.png" alt="LinkedIn" width="20" height="20">
 </a>
+
 <br />
 
-<!-- Thống kê GitHub -->
 
-| <a href="https://github.com/thuttat"><img align="center" src="https://github-readme-stats.vercel.app/api?username=thuttat&show_icons=true&include_all_commits=true&hide=prs,issues,contribs&theme=buefy&hide_border=true" alt="Thuttat's GitHub Stats" /></a> | --- |
+
+<!-- Thống kê GitHub -->
+| <a href="https://github.com/thuttat"><img align="center" src="https://github-readme-stats.vercel.app/api?username=thuttat&show_icons=true&include_all_commits=true&hide=prs,issues,contribs&theme=buefy&hide_border=true" alt="GitHub Stats" /></a> | <a href="https://github.com/thuttat"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thuttat&layout=compact&theme=buefy&hide_border=true" alt="Top Languages" /></a> |
+| --- | --- |
+
 
 <!-- Repo -->
 #### My Repositories
-| <a href="https://github.com/thuttat/Sales-Page"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thuttat&repo=Sales-Page&theme=buefy&hide_border=true" alt="Sales Page" /></a> | ------------------------------------------------------------ |
+| <a href="https://github.com/thuttat/Sales-Page"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thuttat&repo=Sales-Page&theme=buefy&hide_border=true" alt="Sales-Page" /></a> | <a href="https://github.com/thuttat/Porfolio-demo"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thuttat&repo=Porfolio-demo&theme=buefy&hide_border=true" alt="Porfolio-demo" /></a> |
+| ------------------------------------------------------------ | ------------------------------------------------------------------------------ |
+
