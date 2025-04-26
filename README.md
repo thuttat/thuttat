@@ -6,7 +6,9 @@
 ✨My name is Anh Thu. I'm a sophomore majoring in computer science. I'm interested in Design and Web!
 <br />
 <!-- Biểu tượng  -->
-Find me here
+<br />
+Find me here:
+<br />
 <a href="https://www.linkedin.com/in/trịnh-thị-anh-thư">
   <img src="https://i.stack.imgur.com/gVE0j.png" alt="LinkedIn" width="20" height="20">
 </a>
