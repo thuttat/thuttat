@@ -10,4 +10,4 @@ My name is Anh Thu. I'm a sophomore majoring in computer science. I'm interested
 | ------------- | ------------- |
 
 <!-- Biểu tượng LinkedIn -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/trinh-thi-anh-thu](https://www.linkedin.com/in/tr%E1%BB%8Bnh-th%E1%BB%8B-anh-th%C6%B0/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/trinh-thi-anh-thu)
