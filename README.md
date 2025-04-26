@@ -1,4 +1,4 @@
-<p align="center"><a href="https://thuttat.github.io"><alt="Hi, Welcome to my Page!"></a></p>
+<p align="center"><"Hi, Welcome to my Page!"</p>
 
 <br />
 
