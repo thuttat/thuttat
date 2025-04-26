@@ -1,4 +1,4 @@
-<p align="center" style="color:#00FFFF; font-family:'Courier New', Courier, monospace; font-size:24px;">"Hi, Welcome to my Page!"</p>
+<p align="center", font-size:24px;">"Hi, Welcome to my Page!"</p>
 
 <br />
 
