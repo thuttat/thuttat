@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <p align="center">"Hi, Welcome to my Page!"</p>
 
 <br />
@@ -10,8 +11,7 @@ My name is Anh Thu. I'm a sophomore majoring in computer science. I'm interested
 
 My Repositories
 
-<h1>fa fa-linkedin-square</h1>
-<a href="www.linkedin.com/in/trịnh-thị-anh-thư">
-  <img align="right" alt="Trinh Thi Anh Thu | <h1>fa fa-linkedin-square</h1> />
-  <i class="fa fa-linkedin-square" style="font-size:48px;color:red"></i> 
+<a href="https://www.linkedin.com/in/trinh-thi-anh-thu" target="_blank">
+  <i class="fa fa-linkedin-square" style="font-size:48px;color:#0077B5;"></i>
 </a>
+
