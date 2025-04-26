@@ -1,4 +1,7 @@
-<p align="center" style="font-size:28px; color:#00bfff;">Hi, Welcome to my Page!</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00bfff&size=30&center=true&vCenter=true&width=500&height=50&lines=Hi,+Welcome+to+my+Page!">
+</p>
+
 
 
 <br />
