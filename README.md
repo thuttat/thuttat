@@ -1,4 +1,5 @@
-<p align="center">"Hi, Welcome to my Page!"</p>
+<p align="center" style="font-size:28px; color:#00bfff;">Hi, Welcome to my Page!</p>
+
 
 <br />
 
