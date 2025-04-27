@@ -3,7 +3,7 @@
 </p>
 
 <br />
-✨My name is Anh Thu. I'm a sophomore majoring in computer science. I'm interested in Design and Web!
+✨My name is Anh Thu. I'm a sophomore majoring in computer science. I'm interested in Des and Web!
 <br />
 <!-- Biểu tượng  -->
 <br />
