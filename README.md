@@ -18,8 +18,30 @@ Find me here:
 
 
 <!-- Thống kê GitHub -->
-| <a href="https://github.com/thuttat"><img align="center" src="https://github-readme-stats.vercel.app/api?username=thuttat&show_icons=true&include_all_commits=true&hide=prs,issues,contribs&theme=buefy&hide_border=true" alt="GitHub Stats" /></a> | <a href="https://github.com/thuttat"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thuttat&layout=compact&theme=buefy&hide_border=true" alt="Top Languages" /></a> |
+<!-- Thống kê GitHub -->
+| <a href="https://github.com/thuttat">
+    <img align="center"
+         src="https://github-readme-stats.vercel.app/api?
+               username=thuttat
+               &show_icons=true
+               &include_all_commits=true
+               &cache_seconds=21600
+               &hide=prs,issues,contribs
+               &theme=buefy
+               &hide_border=true"
+         alt="GitHub Stats" />
+  </a> |
+  <a href="https://github.com/thuttat">
+    <img align="center"
+         src="https://github-readme-stats.vercel.app/api/top-langs/?
+               username=thuttat
+               &layout=compact
+               &theme=buefy
+               &hide_border=true"
+         alt="Top Languages" />
+  </a> |
 | --- | --- |
+
 
 
 <!-- Repo -->
