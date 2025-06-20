@@ -25,6 +25,6 @@ Find me here:
 
 <!-- Repo -->
 #### My Repositories
-| <a href="https://github.com/thuttat/Sales-Page"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thuttat&repo=Sales-Page&theme=holi&hide_border=true" alt="Sales-Page" /></a> | <a href="https://github.com/thuttat/Porfolio-demo"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thuttat&repo=Porfolio-demo&theme=holi&hide_border=true" alt="Porfolio-demo" /></a> |
+| <a href="https://github.com/thuttat/Sales-Page"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thuttat&repo=Sales-Page&theme=holi&hide_border=true" alt="Sales-Page" /></a> | <a href="https://github.com/thuttat/Porfolio-demo"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thuttat&repo=Porfolio-demo&theme=holi&hide_border=true" alt="Porfolio-demo" /></a> |<a href="https://github.com/thuttat/QuizApp"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thuttat&repo=QuizApp&theme=holi&hide_border=true" alt="QuizApp" /></a> |
 | ------------------------------------------------------------ | ------------------------------------------------------------------------------ |
 
