@@ -3,7 +3,7 @@
 </p>
 
 <br />
-✨My name is Anh Thu. I'm currently studying computer science. I'm interested in Des and Dev Web!
+✨My name is Anh Thu. I'm currently studying computer science.
 <br />
 <!-- Biểu tượng  -->
 <br />
